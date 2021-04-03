@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <img src="https://github.com/lucid-kv/deploy-templates/blob/master/lucid.png?raw=true" height="100" alt="Lucid KV" />
+    <img src="https://www.svgrepo.com/show/53683/cube.svg" height="100" alt="Lucid KV" />
   </p>
   <h3 align="center">
     About Scalar AG
