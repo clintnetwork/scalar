@@ -1,9 +1,9 @@
 <p align="center">
   <p align="center">
-    <img src="https://www.svgrepo.com/show/53683/cube.svg" height="100" alt="Lucid KV" />
+    <img src="https://www.svgrepo.com/show/87986/cube-with-layers.svg" height="100" alt="Lucid KV" />
   </p>
   <h3 align="center">
-    About Scalar AG
+  About <code>Scalar</code>
   </h3>
   <p align="center">
     Distributed Scalability Toolbox
