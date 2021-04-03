@@ -18,3 +18,11 @@
 ## Introduction
 
 Lucid is an high performance, secure and distributed key-value store accessible through an HTTP API, that is built arround a modulable configuration to enable features on the fly, like persistence, encryption SSE, compression, replication, and more.
+
+## Getting Started
+
+Get the latest binary from the [releases](https://github.com/clintnetwork/scalar/releases) page and run these commands:
+
+```
+$ ./scalar agent --install
+```
