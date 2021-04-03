@@ -9,7 +9,7 @@
     Distributed Scalability Toolbox
   </p>
   <p align="center">
-    <a href="https://github.com/clintnetwork/scalar/actions?workflow=Build"><img src="https://github.com/clintnetwork/scalar/workflows/Build/badge.svg" /></a>
+    <a href="https://github.com/clintnetwork/scalar/actions?workflow=Rust"><img src="https://github.com/clintnetwork/scalar/workflows/Rust/badge.svg" /></a>
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Made%20With-Rust-dea584" /></a>
     <a href="https://github.com/lucid-kv/lucid/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" /></a>
   </p>
