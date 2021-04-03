@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://github.com/clintnetwork/scalar/actions?workflow=scalar"><img src="https://github.com/clintnetwork/scalar/workflows/scalar/badge.svg" /></a>
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Made%20With-Rust-dea584" /></a>
-    <a href="https://github.com/lucid-kv/lucid/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" /></a>
+    <a href="https://github.com/clintnetwork/scalar/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" /></a>
   </p>
 </p>
 
@@ -25,4 +25,23 @@ Get the latest binary from the [releases](https://github.com/clintnetwork/scalar
 
 ```
 $ ./scalar agent --install
+```
+
+## Command Line Interface
+
+```
+FLAGS:
+    -h, --help         Prints help information
+    -V, --version      Prints version information
+
+OPTIONS:
+    -c, --config <config>    Specify the `Scalar` configuration file
+    -n, --node <node>        Connect to a specify `Scalar` node.
+
+SUBCOMMANDS:
+    help         Prints this message or the help of the given subcommand(s)
+    agent        Setup or configure a Scalar agent
+    logs         Play with remote logs
+    nodes        Manage all your nodes
+    settings     Change Scalar settings
 ```
