@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <img src="https://www.svgrepo.com/show/579/cube.svg" height="100" alt="Lucid KV" />
+    <img src="https://www.svgrepo.com/show/163829/cubes.svg" height="100" alt="Lucid KV" />
   </p>
   <h3 align="center">
   About <code>Scalar</code>
